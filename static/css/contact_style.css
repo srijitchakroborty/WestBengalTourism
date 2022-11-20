@@ -1,0 +1,66 @@
+.contact{
+    height: 122vh;
+    background: rgba(0, 0, 0, 0.7) url('../images/contact.jpg');
+    background-size: cover;
+    background-blend-mode: darken;
+    background-repeat: no-repeat;
+}
+
+.contact h1{
+    font-size: 3rem;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    padding: 10px;
+    color: white;
+}
+
+.contact p{
+    font-size: 1.2rem;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    padding: 10px;
+}
+
+.contact form{
+    display: flex;
+    flex-direction: column;
+    max-width: 50%;
+    justify-content: center;
+    margin: 35px auto;
+}
+
+.contact form input, textarea{
+    margin: 8px;
+    padding: 8px;
+    border: 2px solid orange;
+    border-radius: 6px;
+    background: rgb(251, 248, 227);
+    outline: none;
+}
+
+.contact form button{
+    max-width: 20%;
+    font-size: large;
+    padding: 8px;
+    margin: auto;
+    border: 2px solid orange;
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}
+
+.contact form button:hover{
+    background-color: white;
+    color: black;
+}
+
+.contactLogo{
+    display: flex;
+    justify-content: space-between;
+    margin: 100px;
+}
+
+.contactLogo a img{
+    width: 100px;
+}

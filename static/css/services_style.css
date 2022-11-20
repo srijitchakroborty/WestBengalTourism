@@ -1,0 +1,36 @@
+.services{
+    background-color: rgb(243, 233, 252);
+    height: 600vh;
+}
+
+.services h1{
+    font-size: 3rem;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    padding: 10px;
+    color: black;
+}
+
+.secRight{
+    display: flex;
+    margin: 100px;
+}
+
+.text-big{
+    font-size: 2rem;
+    font-weight: bold;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin: 8px;
+}
+
+.text-small{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 12px;
+    font-size: 1.2rem;
+}
+
+.thumbnail img{
+    width: 450px;
+    border: 2px solid red;
+    border-radius: 8px;
+}

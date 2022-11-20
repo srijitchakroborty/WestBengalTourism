@@ -1,0 +1,32 @@
+.contact2{
+    height: 86vh;
+    background-color: rgb(196, 243, 220);
+}
+
+.contact2 p{
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.para1{
+    font-size: 1.5rem;
+    padding-top: 80px;
+    color: rgb(1, 78, 1);
+    font-weight: bold;
+}
+
+.para2{
+    font-size: 1.3rem;
+    padding-top: 50px;
+    color: rgb(1, 78, 1);
+}
+
+.para2 a{
+    text-decoration: none;
+    color: rgb(1, 78, 1);
+}
+
+.para2 a:hover{
+    text-decoration: underline;
+    color: red;
+}

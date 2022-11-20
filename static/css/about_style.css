@@ -1,0 +1,35 @@
+.about{
+    height: 100vh;
+    background-color: rgb(225, 225, 225);
+}
+
+.about h1{
+    font-size: 3rem;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    padding: 10px;
+    color: black;
+}
+
+.about p{
+    font-size: 1.2rem;
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    padding: 10px;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+.aboutimagetour{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.aboutimagetour img{
+    width: 220px;
+    border: 2px solid red;
+    margin: 10px;
+}

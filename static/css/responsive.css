@@ -1,0 +1,244 @@
+@media only screen and (max-width:2760px){
+    .services{
+        height: 700vh;
+    }
+    .contact{
+        height: 230vh;
+    }
+    .about{
+        height: 170vh;
+    }
+    .background{
+        height: 100vh;
+    }
+    
+}
+@media only screen and (max-width:1463px){
+    .services{
+        height: 810vh;
+    }
+}
+@media only screen and (max-width:1260px){
+    .services{
+        height: 870vh;
+    }
+}
+@media only screen and (max-width:1200px){
+    .services{
+        height: 860vh;
+    }
+    .firstHalf .text-big{
+        font-size: 20px;
+    }
+    .firstHalf .text-small{
+        font-size: 15px;
+    }
+    .text-big{
+        font-size: 1.5rem;
+    }
+    .text-small{
+        font-size: 1rem;
+    }
+    .thumbnail img{
+        width: 300px;
+    }
+}
+@media only screen and (max-width:893px){
+    .nav-list li{
+        font-size: 17px;
+        margin: 5px;
+        padding: 5px;
+    }
+    .booking a{
+        font-size: 1.1rem;
+    }
+    .logo img{
+        width: 100px;
+    }
+    .secondHalf img{
+        width: 200px;
+    }
+    .services{
+        height: 650vh;
+    }
+    .text-big{
+        font-size: 1.3rem;
+    }
+    .text-small{
+        font-size: 0.8rem;
+    }
+    .thumbnail img{
+        width: 250px;
+    }
+}
+@media only screen and (max-width:825px){
+    .text-big{
+        font-size: 1.1rem;
+    }
+    .text-small{
+        font-size: 0.7rem;
+    }
+    .thumbnail img{
+        width: 200px;
+    }
+    .contact form button{
+        max-width: 40%;
+    }
+    .aboutimagetour img{
+        width: 170px;
+    }
+    
+}
+@media only screen and (max-width:700px){
+    .services{
+        height: 600vh;
+    }
+    .secondHalf img{
+        width: 150px;
+    }
+    .secRight{
+        flex-direction: column;
+        margin: 40px;
+    }
+}
+@media only screen and (max-width:632px){
+    .services{
+        height: 630vh;
+    }
+    .contactLogo{
+        display: block;
+    }
+    .aboutimagetour img{
+        width: 120px;
+    }
+}
+@media only screen and (max-width:554px){
+    .navbar{
+        height: 280px;
+        flex-direction: column;
+        transition: all 0.7s ease-out;
+    }
+    .about{
+        height: 220vh;
+    }
+    .booking{
+        padding: 2px;
+        margin-bottom: 4px;
+    }
+    .nav-list{
+        flex-direction: column;
+    }
+    .burger{
+        display: block;
+    }
+    .h-nav-resp{
+        height: 70px;
+    }
+    .v-class-resp{
+        opacity: 0;
+    }
+    .services{
+        height: 710vh;
+    }
+}
+@media only screen and (max-width:450px){
+    .services{
+        height: 670vh;
+    }
+    .secondHalf img{
+        width: 120px;
+    }
+    .text-big{
+        font-size: 1rem;
+    }
+    .text-small{
+        font-size: 0.6rem;
+    }
+    .thumbnail img{
+        width: 180px;
+    }
+    .about{
+        height: 250vh;
+    }
+    .aboutimagetour img{
+        width: 90px;
+    }
+    footer p{
+        font-size: 16px;
+    }
+    .contact form button{
+        max-width: 80%;
+    }
+    .contact form input, textarea{
+        margin: 6px;
+        padding: 6px;
+        max-width: 100%;
+        font-size: 11px;
+    }
+}
+@media only screen and (max-width:354px){
+    .firstHalf .text-big{
+        font-size: 15px;
+    }
+    .firstHalf .text-small{
+        font-size: 10px;
+    }
+    .secondHalf img{
+        width: 100px;
+    }
+    .services{
+        height: 750vh;
+    }
+    .about p{
+        font-size: 1rem;
+    }
+    .aboutimagetour img{
+        width: 80px;
+    }
+    footer p{
+        font-size: 14px;
+    }
+}
+@media only screen and (max-width:300px){
+    .services{
+        height: 730vh;
+    }
+    .secondHalf img{
+        width: 80px;
+    }
+    .secRight{
+        flex-direction: column;
+        margin: 20px;
+    }
+    .thumbnail img{
+        width: 160px;
+    }
+    .about{
+        height: 260vh;
+    }
+    .aboutimagetour img{
+        width: 57px;
+    }
+    footer p{
+        font-size: 11px;
+    }
+    .contact form input, textarea{
+        font-size: 9px;
+    }
+    .secondHalf img{
+        width: 50px;
+    }
+}
+@media only screen and (max-width:243px){
+    .services{
+        height: 790vh;
+    }
+}
+@media only screen and (max-width:222px){
+    .services{
+        height: 880vh;
+    }
+    .aboutimagetour img{
+        width: 45px;
+    }
+}
